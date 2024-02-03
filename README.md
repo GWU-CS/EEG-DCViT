@@ -18,7 +18,7 @@ The code implementation in this project includes references to the [EEGViT repos
 
 Please note that the `EEG-DCViT.ipynb` notebook contains all necessary requirements and configurations for replicating the results presented. To replicate the results, simply follow the instructions provided within the notebook.
 
-### Step 1 - Open EEG-LiT.ipynb in Google Collab
+### Step 1 - Open EEG-DCViT.ipynb in Google Collab
 
 ### Step 2 - Click Runtime > Run All
 
@@ -49,7 +49,7 @@ The deployment of pre-processing and using DS-CNNs has improved the performance 
 | VIT - Base Pre-trained                | 58.1 ± 0.6                  |
 | EEGVIT                                | 61.7 ± 0.6                  |
 | EEGVIT Pre - trained                  | 55.4 ± 0.2                  |
-| **EEG-DCViT trained with clustered data (EEG-DCViT)** | **51.6**         |
+| **EEG-DCViT trained with clustered data (EEG-DCViT)** | **51.6 ± 0.2**         |
 
 
 
