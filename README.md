@@ -28,7 +28,7 @@ Visualization of Test Error
 
 <img width="752" alt="image" src="images/test-error.png">
 
-The figure visualizes the coordinates of certain data points, differentiated by a threshold (55.4) applied to their associated Root Mean Square Error (RMSE). Points with RMSE below the threshold are marked in blue and those above in red, with the lines connecting each point to a reference or predicted position, indicating the error magnitude. The dense clustering of blue points suggests a significant proportion of predictions with RMSE below the threshold, indicating accurate model performance. Conversely, the spread of red points signifies instances where the prediction error exceeded the threshold, which could highlight areas for model improvement.
+The figure visualizes the coordinates of certain data points, differentiated by a threshold (55.4 mm) applied to their associated Root Mean Square Error (RMSE). Points with RMSE below the threshold are marked in blue and those above in red, with the lines connecting each point to a reference or predicted position, indicating the error magnitude. The dense clustering of blue points suggests a significant proportion of predictions with RMSE below the threshold, indicating accurate model performance. Conversely, the spread of red points signifies instances where the prediction error exceeded the threshold, which could highlight areas for model improvement.
 
 
 ## Results
